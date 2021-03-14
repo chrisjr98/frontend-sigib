@@ -1,6 +1,6 @@
 /* tslint:disable */
 export const environment = {
   "production": false,
-  "url": "http://loadb-app-335908590.us-east-1.elb.amazonaws.com",
+  "url": "bcbackend-1827943821.us-east-1.elb.amazonaws.com",
   "port": ""
 };
